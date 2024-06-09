@@ -1,0 +1,3 @@
+[console_scripts]
+nvixtts = NViXTTS.bin.synthesize:main
+nvixtts-server = NViXTTS.server.server:main
